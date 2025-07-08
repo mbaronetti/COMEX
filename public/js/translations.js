@@ -5,7 +5,7 @@ const phrases = {
     subtitle:
       "En COMEX WORLD nos especializamos en esmeraldas certificadas, oportunidades de inversión estratégica y soluciones en comercio exterior. Descubrí cómo COMEX WORLD conecta valor con visión internacional.",
     hero1: "Simplicidad con Propósito.\nTransformamos Ideas en Soluciones.",
-    hero2: "Conectamos mercados y oportunidades globales con COMEX WORLD.",
+    hero2: "Acceda a mercados y oportunidades globales con COMEX WORLD.",
     area_emeralds_title: "Esmeraldas Certificadas de Origen Auténtico",
     area_emeralds_desc:
       "Conectamos compradores internacionales con esmeraldas de alta calidad, certificadas por laboratorios gemológicos reconocidos. Ofrecemos transparencia, trazabilidad y asesoramiento experto en la adquisición y comercialización de gemas de inversión.",
